@@ -1,2 +1,2 @@
 # html-portfolio
-beginner portfolio exercise
+Web Developer Bootcamp - beginner portfolio exercises 2024
